@@ -14,7 +14,7 @@ Hi, I'm a data science student completing my NQF7 qualification, building hands-
 
 Predicted obesity category (Underweight / Normal Weight / Overweight / Obese) from age, gender, height, weight, and BMI. Includes full EDA, outlier handling with IQR clipping, feature scaling, K tuning across K=1–20, and confusion matrix analysis.
 
-📂 [View project folder](./obesity-classification-knn/) · 🔗 [Kaggle Notebook](#) *(add your link)*
+📂 [View project folder](./obesity-classification-knn/) · 🔗 [Kaggle Notebook](#) *https://www.kaggle.com/code/franciswande/obesity-classification*
 
 ---
 
