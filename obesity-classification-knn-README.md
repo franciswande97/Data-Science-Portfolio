@@ -102,7 +102,7 @@ The modest accuracy is expected given the following:
 
 | File | Description |
 |------|-------------|
-| `obesity-classification.ipynb` | Full notebook — EDA, preprocessing, modelling, evaluation |
+| 'https://www.kaggle.com/code/franciswande/obesity-classification-knn` | Full notebook — EDA, preprocessing, modelling, evaluation |
 
 ---
 
