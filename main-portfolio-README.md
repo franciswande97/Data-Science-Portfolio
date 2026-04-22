@@ -14,7 +14,7 @@ Hi, I'm a data science student completing my NQF7 qualification, building hands-
 
 Predicted obesity category (Underweight / Normal Weight / Overweight / Obese) from age, gender, height, weight, and BMI. Includes full EDA, outlier handling with IQR clipping, feature scaling, K tuning across K=1–20, and confusion matrix analysis.
 
-📂 [View project folder](./obesity-classification-knn/) · 🔗 [Kaggle Notebook](#) *https://www.kaggle.com/code/franciswande/obesity-classification*
+🔗 [Kaggle Notebook](#) *https://www.kaggle.com/code/franciswande/obesity-classification*
 
 ---
 
@@ -45,4 +45,4 @@ Predicting residential sale prices using advanced regression techniques includin
 
 All projects here are built as part of my NQF7 Machine Learning coursework and personal learning. I use Kaggle Notebooks as my primary environment. Each project README includes an honest reflection on results and what I would do differently — because understanding your model's limitations is as important as building it.
 
-📧 *Add your contact / LinkedIn here*
+📧 *www.linkedin.com/in/francis-wande-763a08247*
